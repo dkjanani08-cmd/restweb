@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'darshika.urls'
+ROOT_URLCONF = 'janani.urls'
 
 TEMPLATES = [
     {
@@ -66,7 +66,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'darshika.wsgi.application'
+WSGI_APPLICATION = 'janani.wsgi.application'
 
 
 # Database
